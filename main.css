@@ -1,0 +1,35 @@
+div{
+	background-color:pink;
+	width: 5%;
+	height: 70px;
+	display:block;
+	margin-bottom: 10px;
+}
+.caja2{
+	background-color:yellow;
+	width: 10%;
+	height: 70px;
+	display:block;
+	margin-bottom: 10px
+
+}
+
+.hijo{
+	background-color:red;
+	width: 30%;
+	height: 50px;
+	margin-top: 10px;
+	display:inline-block;
+
+}
+.caja1{
+	background-color: blue;
+	display: block;
+	margin-bottom: 10px;
+}
+.caja3, .caja4{
+	background-color: green;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
